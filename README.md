@@ -114,9 +114,13 @@ encrypt_key 是绑定阶段派生的 16 字节长期密钥，不是固定值。
 
 ## 界面
 
-App 首页：docs/app-ui-v2.png
+Android App：
 
-服务端控制台：docs/console-ui.png
+![Android App](docs/app-ui-v2.png)
+
+服务端控制台：
+
+![Web Console](docs/console-ui.png)
 
 ## 安全与隐私
 
