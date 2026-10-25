@@ -1,5 +1,7 @@
 # Cindy Band
 
+[English](README.en.md) | 简体中文
+
 ![CI](https://github.com/Shunamxiao/xiaomi-band8/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)

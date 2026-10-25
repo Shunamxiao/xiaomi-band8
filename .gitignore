@@ -15,6 +15,9 @@ venv/
 
 # Secrets
 band8/keystore.json
+android/keystore.properties
+*.jks
+*.keystore
 *.key
 *.pem
 .env
