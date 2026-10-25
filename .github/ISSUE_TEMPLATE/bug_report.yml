@@ -1,0 +1,32 @@
+name: Bug report
+description: 报告可复现的问题
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请勿在 Issue 中粘贴设备密钥、MAC、内网地址或完整日志中的敏感信息。
+  - type: textarea
+    id: what
+    attributes:
+      label: 现象
+      description: 发生了什么，期望是什么
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: 环境
+      description: 系统、Python/Android 版本、手环型号与固件
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志
+      description: 请先删除密钥、MAC、IP 等敏感信息
+      render: text
