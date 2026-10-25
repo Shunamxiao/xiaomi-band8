@@ -1,5 +1,10 @@
 # Cindy Band
 
+![CI](https://github.com/Shunamxiao/xiaomi-band8/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)
+![Android](https://img.shields.io/badge/android-8.0%2B-3DDC84)
+
 自建的小米手环 8（NFC）BLE 客户端。提供 PC 直连、Android App、本地服务端 与 MCP 工具 四种形态，
 不依赖官方 App 常驻，支持通知转发、电量查询、设备设置与桌搭展示。
 

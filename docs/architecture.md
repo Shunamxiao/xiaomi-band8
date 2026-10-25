@@ -1,5 +1,8 @@
 # 小米手环8 自建控制方案（架构设计）
 
+> 文档时效说明：本文是早期设计记录，部分结论已被后续实测更新。
+> 当前可用的 PC 客户端与链路结论见 docs/connection-chain.md。
+
 > 目标: 自研 APK + 自建服务端, 直连小米手环8, 实现自定义通信、通知推送、表盘/页面内容定制
 > 设备: Xiaomi Smart Band 8 NFC (m66nfc, MAC AA:BB:CC:DD:EE:FF)
 > 配套手机: MI 8 (root, Android 10, Termux + SSH)
